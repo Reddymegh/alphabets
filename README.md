@@ -14,14 +14,6 @@ This simple Java application prints uppercase letters from A to Z. It's an ideal
 
 ---
 
-## 📁 File Structure
-
-| File Name            | Description                             |
-|----------------------|-----------------------------------------|
-| `AlphabetPrinter.java` | Main class that prints A to Z in console |
-
----
-
 ## 🧑‍💻 Technologies Used
 
 - Java (JDK 8 or higher)
